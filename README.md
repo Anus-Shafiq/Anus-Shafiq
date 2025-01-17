@@ -38,8 +38,8 @@ I'm a student of MERN Stack development with a passion for building responsive a
 - - :large_blue_circle: Facebook: => :link:	https://www.facebook.com/ShEikh.AnUs925
 - - :purple_circle: LinkedIn:     => :link:	https://www.linkedin.com/in/sualeh-farooq/](https://www.linkedin.com/in/anus-shafiq
 - - ✉️ Email:                     => :link: sheikhanus925@gmail.com
-  - - 🟪 Instagram (Page): => :link: [https://www.instagram.com/sheikh_anus24/](https://www.instagram.com/sheikh_anus24/)  
-- 🌐 Website: => :link: [https://anusshafiq.com](https://anusshafiq.com)  
+- - 🟪 Instagram (Page): => :link: [https://www.instagram.com/sheikh_anus24/](https://www.instagram.com/sheikh_anus24/)  
+- - 🌐 Website: => :link: [https://anusshafiq.com](https://anusshafiq.com)  
 
 
 
@@ -58,6 +58,9 @@ I'm a student of MERN Stack development with a passion for building responsive a
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)  
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)  
 
 <br/>
 
