@@ -1,4 +1,4 @@
-### Hi there I am Sualeh Muhammad <img height="25px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,  Student of MERN Stack Development.
+### Hi there I am Anus Shafiq <img height="25px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,  Student of MERN Stack Development.
 
 ### :heavy_check_mark: Student of MERN Stack Development
 
