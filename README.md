@@ -58,8 +58,8 @@ I'm a student of MERN Stack development with a passion for building responsive a
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)  
-![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)  
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat&logo=illustrator&logoColor=white)  
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat&logo=photoshop&logoColor=white)  
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)   
 
 <br/>
