@@ -38,7 +38,8 @@ I'm a student of MERN Stack development with a passion for building responsive a
 - - :large_blue_circle: Facebook: => :link:	https://www.facebook.com/ShEikh.AnUs925
 - - :purple_circle: LinkedIn:     => :link:	https://www.linkedin.com/in/sualeh-farooq/](https://www.linkedin.com/in/anus-shafiq
 - - ✉️ Email:                     => :link: sheikhanus925@gmail.com
- - - :large_blue_diamond: Instagram (Page): => :link: https://www.instagram.com/sheikh_anus24/
+  - - 🟪 Instagram (Page): => :link: [https://www.instagram.com/sheikh_anus24/](https://www.instagram.com/sheikh_anus24/)  
+- 🌐 Website: => :link: [https://anusshafiq.com](https://anusshafiq.com)  
 
 
 
