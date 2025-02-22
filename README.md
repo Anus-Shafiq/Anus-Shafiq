@@ -61,7 +61,7 @@ I'm a student of MERN Stack development with a passion for building responsive a
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat&logo=illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat&logo=photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-[![My Skills]([https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,supabase,git,github,netlify,ai,ps,xd,figma,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,supabase,git,github,netlify,ai,ps,xd,figma,&theme=dark)](https://skillicons.dev)
 
 <br/>
 
