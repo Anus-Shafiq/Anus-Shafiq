@@ -52,7 +52,7 @@ I'm a student of MERN Stack development with a passion for building responsive a
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,supabase,git,github,netlify,ai,ps,xd,figma,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,supabase,git,github,netlify,vscode,ai,ps,xd,figma,&theme=dark)](https://skillicons.dev)
 
 <br/>
 
