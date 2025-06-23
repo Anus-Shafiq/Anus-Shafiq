@@ -26,8 +26,10 @@ I'm a student of MERN Stack development with a passion for building responsive a
 
 ## :medal_sports: Projects :
 
-- **Portfolio   => :link: https://anusshafiq.com/**
+- **Loan App   => :link: https://loan-app-anus.vercel.app/**
+- **Shopon    => :link: https://shopon-anus.netlify.app/**
 - **Quiz App   => :link: https://quiz-application-anus.netlify.app/**
+- **Portfolio   => :link: https://anusshafiq.com/**
 
 
 <br />
@@ -52,7 +54,7 @@ I'm a student of MERN Stack development with a passion for building responsive a
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,supabase,git,github,netlify,vscode,ai,ps,xd,figma,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,materialui,supabase,npm,postman,git,github,netlify,vscode,vite,ai,ps,xd,figma,&theme=dark)](https://skillicons.dev)
 
 <br/>
 
